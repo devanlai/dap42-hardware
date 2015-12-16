@@ -17,6 +17,8 @@ Both original DipTrace CAD files and gerber production files are included. For c
 * 2x 3mm momentary pushbuttons for reset and bootloader (optional)
 * 3x LEDs (optional, but fun to look at)
 
+See the [bill of materials](BOM.md) for a more detailed list.
+
 # License
 [![CC0 Public Domain badge](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
