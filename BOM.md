@@ -28,4 +28,4 @@ C4 | | 1uF
 C5 | | 1uF
 
 ---
-<sup id="#f1">1. P/N is for a 10-pack of shrouded headers, can also substitute unshrouded male headers</sup>
+<sup id="f1">1. P/N is for a 10-pack of shrouded headers, can also substitute unshrouded male headers</sup>
