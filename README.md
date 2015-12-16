@@ -7,7 +7,7 @@ See https://github.com/devanlai/dap42 for firmware source code.
 
 Both original DipTrace CAD files and gerber production files are included. For convenience, a PDF of the schematic and PNG renders of the top and bottom side of the board are included.
 
-![Top-side render](render-top-v2.png)
+![Assembled DAP42v2.1 with quarter for scale](DAP42v2.1-quarter-small.jpg)
 
 # Parts
 * 1x STM32F042F6 (TSSOP-20)
