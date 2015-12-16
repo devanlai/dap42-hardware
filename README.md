@@ -18,4 +18,6 @@ Both original DipTrace CAD files and gerber production files are included. For c
 * 3x LEDs (optional, but fun to look at)
 
 # License
-Licensing to be determined once I read through the different open hardware licenses.
+[![CC0 Public Domain badge](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Devan Lai has waived all copyright and related or neighboring rights to the dap42 schematic, PCB layout, and associated CAD and gerber production files. This work is published from: United States.
