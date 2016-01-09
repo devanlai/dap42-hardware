@@ -1,0 +1,19 @@
+## Customize the test machine
+machine:
+  timezone:
+    America/Los_Angeles # Set the timezone
+  services:
+    - docker
+
+dependencies:
+  pre:
+    - sudo apt-get update; sudo apt-get install -y libfftw3-double3 libmagickcore5 libmagickwand5 imagemagick
+    - docker pull devanlai/diptrace-export:beta
+
+test:
+  override:
+    - ./render-schematic.sh DAP42v2
+
+general:
+  artifacts:
+    - renders/
