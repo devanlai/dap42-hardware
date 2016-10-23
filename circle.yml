@@ -9,10 +9,11 @@ dependencies:
   pre:
     - sudo apt-get update; sudo apt-get install -y libfftw3-double3 libmagickcore5 libmagickwand5 imagemagick
     - docker pull devanlai/diptrace-export:debug
+    - pip install sh
 
 test:
   override:
-    - ./render-schematic.sh DAP42v2
+    - ./render-schematic.py *.dch
 
 general:
   artifacts:
