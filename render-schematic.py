@@ -11,7 +11,7 @@ try:
 except ImportError:
     from StringIO import StringIO
 
-IMAGE = "devanlai/diptrace-export:debug"
+IMAGE = "devanlai/diptrace-export:3.1"
 EXP_ENTRY = "/tmp/bin/export-asc.sh"
 IMP_ENTRY = "/tmp/bin/import-asc.sh"
 
